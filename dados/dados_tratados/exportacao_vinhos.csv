@@ -111,7 +111,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2008,0,0,África
 111,Reino Unido,2008,100097,155076,Europa
 112,República Dominicana,2008,0,0,América do Norte
-113,Rússia,2008,6207658,2352768,Europa/Ásia
+113,Rússia,2008,6207658,2352768,Ásia/Europa
 114,São Cristóvão e Névis,2008,0,0,América do Norte
 115,São Tomé e Príncipe,2008,0,0,África
 116,São Vicente e Granadinas,2008,0,0,América do Norte
@@ -248,7 +248,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2009,0,0,África
 111,Reino Unido,2009,30092,68788,Europa
 112,República Dominicana,2009,0,0,América do Norte
-113,Rússia,2009,21912914,5732280,Europa/Ásia
+113,Rússia,2009,21912914,5732280,Ásia/Europa
 114,São Cristóvão e Névis,2009,0,0,América do Norte
 115,São Tomé e Príncipe,2009,0,0,África
 116,São Vicente e Granadinas,2009,0,0,América do Norte
@@ -385,7 +385,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2010,0,0,África
 111,Reino Unido,2010,123624,295690,Europa
 112,República Dominicana,2010,0,0,América do Norte
-113,Rússia,2010,0,0,Europa/Ásia
+113,Rússia,2010,0,0,Ásia/Europa
 114,São Cristóvão e Névis,2010,0,0,América do Norte
 115,São Tomé e Príncipe,2010,0,0,África
 116,São Vicente e Granadinas,2010,0,0,América do Norte
@@ -522,7 +522,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2011,0,0,África
 111,Reino Unido,2011,122629,285642,Europa
 112,República Dominicana,2011,0,0,América do Norte
-113,Rússia,2011,0,0,Europa/Ásia
+113,Rússia,2011,0,0,Ásia/Europa
 114,São Cristóvão e Névis,2011,0,0,América do Norte
 115,São Tomé e Príncipe,2011,0,0,África
 116,São Vicente e Granadinas,2011,0,0,América do Norte
@@ -659,7 +659,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2012,94,458,África
 111,Reino Unido,2012,82937,334856,Europa
 112,República Dominicana,2012,0,0,América do Norte
-113,Rússia,2012,4528176,2103968,Europa/Ásia
+113,Rússia,2012,4528176,2103968,Ásia/Europa
 114,São Cristóvão e Névis,2012,0,0,América do Norte
 115,São Tomé e Príncipe,2012,0,0,África
 116,São Vicente e Granadinas,2012,0,0,América do Norte
@@ -796,7 +796,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2013,6,4,África
 111,Reino Unido,2013,59161,305005,Europa
 112,República Dominicana,2013,0,0,América do Norte
-113,Rússia,2013,5893291,14795694,Europa/Ásia
+113,Rússia,2013,5893291,14795694,Ásia/Europa
 114,São Cristóvão e Névis,2013,0,0,América do Norte
 115,São Tomé e Príncipe,2013,0,0,África
 116,São Vicente e Granadinas,2013,0,0,América do Norte
@@ -933,7 +933,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2014,0,0,África
 111,Reino Unido,2014,305807,1373747,Europa
 112,República Dominicana,2014,0,0,América do Norte
-113,Rússia,2014,190656,61440,Europa/Ásia
+113,Rússia,2014,190656,61440,Ásia/Europa
 114,São Cristóvão e Névis,2014,0,0,América do Norte
 115,São Tomé e Príncipe,2014,0,0,África
 116,São Vicente e Granadinas,2014,0,0,América do Norte
@@ -1070,7 +1070,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2015,0,0,África
 111,Reino Unido,2015,68382,308407,Europa
 112,República Dominicana,2015,0,0,América do Norte
-113,Rússia,2015,47664,18240,Europa/Ásia
+113,Rússia,2015,47664,18240,Ásia/Europa
 114,São Cristóvão e Névis,2015,0,0,América do Norte
 115,São Tomé e Príncipe,2015,0,0,África
 116,São Vicente e Granadinas,2015,0,0,América do Norte
@@ -1207,7 +1207,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2016,0,0,África
 111,Reino Unido,2016,117044,536681,Europa
 112,República Dominicana,2016,0,0,América do Norte
-113,Rússia,2016,0,0,Europa/Ásia
+113,Rússia,2016,0,0,Ásia/Europa
 114,São Cristóvão e Névis,2016,0,0,América do Norte
 115,São Tomé e Príncipe,2016,0,0,África
 116,São Vicente e Granadinas,2016,0,0,América do Norte
@@ -1344,7 +1344,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2017,0,0,África
 111,Reino Unido,2017,60711,242883,Europa
 112,República Dominicana,2017,0,0,América do Norte
-113,Rússia,2017,0,0,Europa/Ásia
+113,Rússia,2017,0,0,Ásia/Europa
 114,São Cristóvão e Névis,2017,0,0,América do Norte
 115,São Tomé e Príncipe,2017,0,0,África
 116,São Vicente e Granadinas,2017,0,0,América do Norte
@@ -1481,7 +1481,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2018,6771,31225,África
 111,Reino Unido,2018,67708,296827,Europa
 112,República Dominicana,2018,0,0,América do Norte
-113,Rússia,2018,0,0,Europa/Ásia
+113,Rússia,2018,0,0,Ásia/Europa
 114,São Cristóvão e Névis,2018,0,0,América do Norte
 115,São Tomé e Príncipe,2018,2184,2357,África
 116,São Vicente e Granadinas,2018,0,0,América do Norte
@@ -1618,7 +1618,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2019,0,0,África
 111,Reino Unido,2019,34295,164592,Europa
 112,República Dominicana,2019,0,0,América do Norte
-113,Rússia,2019,0,0,Europa/Ásia
+113,Rússia,2019,0,0,Ásia/Europa
 114,São Cristóvão e Névis,2019,0,0,América do Norte
 115,São Tomé e Príncipe,2019,0,0,África
 116,São Vicente e Granadinas,2019,0,0,América do Norte
@@ -1755,7 +1755,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2020,0,0,África
 111,Reino Unido,2020,22913,82722,Europa
 112,República Dominicana,2020,0,0,América do Norte
-113,Rússia,2020,1463,8550,Europa/Ásia
+113,Rússia,2020,1463,8550,Ásia/Europa
 114,São Cristóvão e Névis,2020,0,0,América do Norte
 115,São Tomé e Príncipe,2020,0,0,África
 116,São Vicente e Granadinas,2020,0,0,América do Norte
@@ -1892,7 +1892,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2021,0,0,África
 111,Reino Unido,2021,25316,122394,Europa
 112,República Dominicana,2021,0,0,América do Norte
-113,Rússia,2021,181931,312926,Europa/Ásia
+113,Rússia,2021,181931,312926,Ásia/Europa
 114,São Cristóvão e Névis,2021,0,0,América do Norte
 115,São Tomé e Príncipe,2021,0,0,África
 116,São Vicente e Granadinas,2021,8,48,América do Norte
@@ -2029,7 +2029,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2022,1440,2080,África
 111,Reino Unido,2022,18835,138154,Europa
 112,República Dominicana,2022,0,0,América do Norte
-113,Rússia,2022,66046,118618,Europa/Ásia
+113,Rússia,2022,66046,118618,Ásia/Europa
 114,São Cristóvão e Névis,2022,0,0,América do Norte
 115,São Tomé e Príncipe,2022,0,0,África
 116,São Vicente e Granadinas,2022,20,51,América do Norte
@@ -2166,7 +2166,7 @@ Id,País,ano,quantidade,valor,Continente
 110,Quênia,2023,0,0,África
 111,Reino Unido,2023,11326,84547,Europa
 112,República Dominicana,2023,0,0,América do Norte
-113,Rússia,2023,0,0,Europa/Ásia
+113,Rússia,2023,0,0,Ásia/Europa
 114,São Cristóvão e Névis,2023,16,31,América do Norte
 115,São Tomé e Príncipe,2023,0,0,África
 116,São Vicente e Granadinas,2023,39,139,América do Norte
