@@ -1,5 +1,6 @@
 Esse repositório contém os arquivos do primeiro projeto proposto na Pós-Tech de Data Analytics da FIAP: uma análise das exportações de vinho brasileiros.
-Os detalhes do projeto requisitado podem ser encontrados no arquivo POSTECH - Tech Challenge - Fase 1.pdf
+
+Os detalhes do projeto requisitado podem ser encontrados no arquivo 'POSTECH - Tech Challenge - Fase 1.pdf'.
 
 O arquivo 'Relatório_interativo.py' é um dashboard criado em python utilizando a biblioteca Streamlit. Para visualizar o dashboard, acesse esse link: https://fiap-techchallenge-1-bruno-santana.streamlit.app/
 O arquivo 'requirements.txt' contém a versão das bibliotecas utilizadas no projeto.
